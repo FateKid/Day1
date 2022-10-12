@@ -18,7 +18,10 @@
     height: 100%;
     perspective: 900;
     overflow-y: scroll;
-    background-color: #242424;
+    background: url(https://nullforums.net/nf-profile-music/backdrop.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     font-family: "Titillium Web", sans-serif;
     color: rgba(48, 69, 92, 0.8); }
   
@@ -31,7 +34,7 @@
     margin: 90px 0;
     transform: translate(-50%, 0);
     box-shadow: 0 10px 0 0 #b1b1b1 inset;
-    background-color: #fefffa;
+    background-color: #ebebeb;
     max-width: 450px;
     padding: 30px; }
     @media (max-width: 550px) {
@@ -44,7 +47,7 @@
         left: 0; } }
   
   h1, h2 {
-    color: #ffd000; }
+    color: #ff6a00; }
   
   h1 {
     text-transform: uppercase;
