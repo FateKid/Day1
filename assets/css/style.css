@@ -81,7 +81,9 @@
     opacity: 1;
     transform: translate(0, 0);
     margin-top: 14px;
-    z-index: 2; }
+    z-index: 2;
+    text-align: center; 
+  }
   
   ul {
     list-style: none;
