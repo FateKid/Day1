@@ -18,18 +18,19 @@
     height: 100%;
     perspective: 900;
     overflow-y: scroll;
-    background-color: #dce7eb;
+    background-color: #242424;
     font-family: "Titillium Web", sans-serif;
     color: rgba(48, 69, 92, 0.8); }
   
   body {
+    border-radius: 7px;
     min-height: 0;
     display: inline-block;
     position: relative;
     left: 50%;
     margin: 90px 0;
     transform: translate(-50%, 0);
-    box-shadow: 0 10px 0 0 #ff6873 inset;
+    box-shadow: 0 10px 0 0 #b1b1b1 inset;
     background-color: #fefffa;
     max-width: 450px;
     padding: 30px; }
@@ -43,7 +44,7 @@
         left: 0; } }
   
   h1, h2 {
-    color: #ff6873; }
+    color: #ffd000; }
   
   h1 {
     text-transform: uppercase;
