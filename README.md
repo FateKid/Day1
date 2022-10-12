@@ -1,4 +1,4 @@
-<span style="font-size:20px;">ZeroDayCode - DAY 1</span>
+<h1>ZeroDayCode - DAY 1<h1>
 
 <hr>
 
